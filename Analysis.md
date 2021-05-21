@@ -20,7 +20,7 @@ I left the rest of the data columns out of my models, as they were more indicati
 
 * SVC Model: .882
 * KNN Model: .846
-* Deep Learning Model: .883
+* Deep Learning Model: .883/.884
 
 ## Findings
 
