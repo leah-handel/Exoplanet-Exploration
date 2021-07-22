@@ -8,7 +8,7 @@ Done for week 21 homework for the Northwestern Data Science and Visualization Bo
 
 ## Technologies
 
-Scikit-learn and TensorFlow Keras in Jupytern Notebook
+Scikit-learn and TensorFlow Keras in Jupyter Notebook
 
 ## Data Sources
 
